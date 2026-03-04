@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'MiFuentePropia';
-  src: url('./Hermo-creations-tildes-Regular.otf') format('otf');
+  src: url('./Hermo-creations-tildes-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
